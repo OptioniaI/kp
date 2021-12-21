@@ -1,0 +1,3 @@
+game.Workspace.World1.kickpart:Destroy()
+game.Workspace.World1.kickpart2:Destroy()
+game.Workspace.kickpart:Destroy()

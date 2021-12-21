@@ -1,3 +1,9 @@
+game.StarterGui:SetCore("SendNotification", 
+ {
+    Title = "KP Remover"; 
+    Text = "Removed all Kickparts!"; 
+    Icon = "rbxthumb://type=Asset&id=145360600&w=150&h=150"; Duration = 5; })
+
 game.Workspace.World1.kickpart:Destroy()
 game.Workspace.World1.kickpart2:Destroy()
 game.Workspace.kickpart:Destroy()
